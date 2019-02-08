@@ -1,5 +1,4 @@
-### Assume that I am a data scientist working for laundry-pick up service startup. It's a small startup, so wants to build vast network in smaller
-cities to have a competitive edge over big companies. It recently opened 10 new stores and has two separate sales regions.
+### Assume that I am a data scientist working for laundry-pick up service startup. It's a small startup, so wants to build vast network in smaller cities to have a competitive edge over big companies. It recently opened 10 new stores and has two separate sales regions.
 
 #### 1. Identify which of the two sales regions is performing better (outperforms in at least two of the metrics than the other)
 - AVG Revenue per city
