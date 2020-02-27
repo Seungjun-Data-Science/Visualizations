@@ -6,4 +6,4 @@ To date, the company has only been running operations in New South Wales. Howeve
 
 You have been asked to assess the business environments for the industry in question in each of these three states and present your findings to the Board of Directors in person
 
-https://public.tableau.com/shared/MJQ4H4Z4C?:display_count=yes
+https://public.tableau.com/views/SuperDataScienceAdvancedTableauCourse-TowhichStateshouldweexpandourbusiness/FinalPresentation?:display_count=y&:origin=viz_share_link
